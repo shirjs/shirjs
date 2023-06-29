@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shirjs
-- 👀 I’m interested in Coding (particularly javascript and website related) and investing (particularly value investing)
-- 🌱 I’m currently learning node.js (7/24/2021)
-- 💞️ I’m looking to collaborate on: not ready for collaborations yet
+- 👀 I’m interested in data science and am currently studying computer science 
+- 🌱 I’m Experimenting with the Torn city (game) API
+- 💞️ I’m looking to collaborate on: anything, if you have the time and energy to explain to me what you are trying to do and how you think I can contribute to your project I will listen.
 - 📫 How to reach me ... benyosefshir@gmail.com
 
